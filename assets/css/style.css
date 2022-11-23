@@ -44,7 +44,7 @@ body {
 }
 
 .btn-sign {
-    font-size: 24px;
+    font-size: 16px;
     padding: 7px 17px;
     margin: 8px 0 0 0;
     border-radius: 3px;
@@ -111,7 +111,7 @@ form {
     display: inline-flex;
     flex-direction: row;
     line-height: normal;
-    font-size: 1.625rem;
+    font-size: 1rem;
     min-height: 60px;
     padding: 0 1em;
     border: none;
