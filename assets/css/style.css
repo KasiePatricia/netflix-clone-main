@@ -20,16 +20,11 @@ body {
     box-shadow: 0 1px 0 rgb(0 0 0 / 45%);
 }
 /* Header starts*/
-.header {
+header {
     background: transparent;
-    padding: 1.2rem 0;
-    /* position: fixed; */
-    bottom: 0;
-    left: 0;
-    top: 0;
+    position: fixed;
     width: 100%;
     height: 4rem;
-    position: relative;
 }
 .nav-bar {
     display: flex;
@@ -111,7 +106,7 @@ form {
     display: inline-flex;
     flex-direction: row;
     line-height: normal;
-    font-size: 1rem;
+    font-size: 1.625rem;
     min-height: 60px;
     padding: 0 1em;
     border: none;
